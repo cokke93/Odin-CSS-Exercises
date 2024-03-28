@@ -1,0 +1,19 @@
+.odd{
+    background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unic{
+    color: blue;
+    font-size: 32px;
+}
+
+.odd.alter{
+    font-size: 24px;
+}
+
+#second{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
